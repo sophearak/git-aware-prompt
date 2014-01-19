@@ -61,8 +61,7 @@ page. Or if you have tips of your own, feel free to add them :)
 
 ## License
 
-(MIT-like license, without the requirement to keep copyright notice in
-reproductions)
+(MIT)
 
 Copyright (c) 2014 Sophearak
 
