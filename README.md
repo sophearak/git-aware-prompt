@@ -1,6 +1,6 @@
 # Git Aware Prompt
 
-I fork and edit for my personal perference. you can go to the ![original repo here](https://github.com/jimeh/git-aware-prompt)
+I fork and edit for my personal perference. you can go to the [original repo here](https://github.com/jimeh/git-aware-prompt)
 
 ![Git Branch in Terminal](https://raw.github.com/sophearak/git-aware-prompt/master/preview.png)
 
