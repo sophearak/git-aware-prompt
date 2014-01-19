@@ -1,5 +1,9 @@
 # Git Aware Prompt
 
+I fork and edit for my personal perference. you can go to the ![original repo here](https://github.com/jimeh/git-aware-prompt)
+
+![Git Branch in Terminal](https://raw.github.com/sophearak/git-aware-prompt/master/preview.png)
+
 Working with Git and its great branching/merging features is
 amazing. Constantly switching branches can be confusing though as you have to
 run `git status` to see which branch you're currently on.
@@ -10,15 +14,11 @@ about how to achieve this.
 
 I based this project mainly on Aaron Crane's [solution][1].
 
-
 ## Overview
 
 If you `cd` to a Git working directory, you will see the current Git branch
 name displayed in your terminal prompt. When you're not in a Git working
 directory, your prompt works like normal.
-
-![Git Branch in Terminal](https://raw.github.com/sophearak/git-aware-prompt/master/preview.png)
-
 
 ## Installation
 
@@ -64,7 +64,7 @@ page. Or if you have tips of your own, feel free to add them :)
 (MIT-like license, without the requirement to keep copyright notice in
 reproductions)
 
-Copyright (c) 2009 Jim Myhrberg
+Copyright (c) 2014 Sophearak
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
